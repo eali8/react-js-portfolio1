@@ -1,0 +1,55 @@
+[{
+    "_id": {
+        "$oid": "654b49f6b84c5d0e24ad60cc"
+    },
+    "name": "Children Charity Research Website",
+    "short_description": "UX Case Study - Expanding the Size of Charity",
+    "link": "children_hero.png",
+    "slug": "charity"
+},
+{
+    "_id": {
+        "$oid": "654b4a09b84c5d0e24ad60cd"
+    },
+    "name": "“Shut Up” Mobile App",
+    "short_description": "UX Case Study - Minimizing distractions with “Shut Up” App",
+    "link": "shutup-hero.png",
+    "slug": "shutup"
+},
+{
+    "_id": {
+        "$oid": "654b4a18b84c5d0e24ad60ce"
+    },
+    "name": "Mindfulness Stress Reduction App",
+    "short_description": "UX Case Study - Meditation App with your personality",
+    "link": "mind-hero.png",
+    "slug": "mind"
+},
+{
+    "_id": {
+        "$oid": "654b4a27b84c5d0e24ad60cf"
+    },
+    "name": "Fufu Bakery Website",
+    "slug": "fufu",
+    "short_description": "UX Case Study - Enhancing the expansion of “Fufu” Bakery and it’s Web Visibility",
+    "link": "fufu-hero.png"
+},
+{
+    "_id": {
+        "$oid": "654b4a36b84c5d0e24ad60d0"
+    },
+    "name": "Prototypes AND Experiments",
+    "slug": "prototype",
+    "short_description": "Interactions and techniques in prototyping with Figma",
+    "link": "proto-hero.png"
+},
+{
+    "_id": {
+        "$oid": "654b4a43b84c5d0e24ad60d1"
+    },
+    "name": "Web Animations",
+    "slug": "animation",
+    "short_description": "Designing and developing animations",
+    "link": "anim-hero.png"
+}
+]
