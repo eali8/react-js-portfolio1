@@ -1,0 +1,15 @@
+[{
+    "_id": {
+        "$oid": "654b4976b84c5d0e24ad60c9"
+    },
+    "name": "Illustration",
+    "short_description": "I utilize Adobe software to create art that effectively communicates ideas to a broad audience."
+},
+{
+    "_id": {
+        "$oid": "654b49a3b84c5d0e24ad60ca"
+    },
+    "name": "Photography",
+    "short_description": "I find traveling incredibly inspiring, as it helps me overcome creative blocks."
+}
+]
